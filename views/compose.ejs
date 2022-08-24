@@ -1,0 +1,13 @@
+<%- include("partials/header"); -%>
+ <h1>It's time for some new recipe!</h1>
+ <form action="/compose" method="post">
+    <div class="form-group">
+        <label>Dish Name</label>
+        <input class="form-control" type="text" name="postTitle" autocomplete="off">
+        <label>Recipe</label>
+        <textarea class="form-control" name="postBody" cols="30" rows="5" autocomplete="off"></textarea>
+    </div>
+    <button class="buttons" type="submit"><span>Let's Prepare</span></button>
+ </form>
+
+ <%- include("partials/footer"); -%>
