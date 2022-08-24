@@ -3,7 +3,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const https = require("https");
-const _ =require("lodash");
+const _ = require("lodash");
 
 const homeStartingContent = "Everyone loves food. Looking at it. Smelling it. Taking pictures of it. Making it. Eating it. Posting it on Instagram and Pinterest. And of course, talking about it!Food is the basic human need to stay alive. Moreover, it is the need of every living organism. Therefore it is important that we should not waste food. Our world consists of different types of cultures. These cultures have varieties of dishes of food in them.Thus, all the dishes have different taste. Furthermore, our nature provides us a variety of food. From fruits to vegetables, from Dairy food to seafood everything is available. Different countries have their own specialty of dishes.";
 const aboutContent = "'A recipe has no soul. You, as the cook, must bring the soul to the recipe'.– Thomas Keller. This page is speacially designed for food lovers and to share their best receipes." ;
