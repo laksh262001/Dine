@@ -2,7 +2,7 @@
 
 | Project Title | Dine-Fine |
 | --- | --- |
-| Technologies | MongoDB, Express,  HTML, CSS, JS, and Node.js |
+| Technologies | MongoDB, Express,  HTML, CSS, JS, and Node.js Azure |
 | Domain | Food |
 
 # **Problem Statement:**
@@ -29,9 +29,8 @@ USER
 
 **Ops Pipeline: NA**
 
-**Deployment: local,Heroku**
+**Deployment: local,Azure**
 
-Heroku deployed link: [https://infinite-wave-59552.herokuapp.com/](https://infinite-wave-59552.herokuapp.com/)
 
 localhost: [http://localhost:3000](http://localhost:3000/)
-Add your favourite recipes here: https://infinite-wave-59552.herokuapp.com/
+Add your favourite recipes here: https://dine-fine.azurewebsites.net/
