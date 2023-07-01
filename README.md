@@ -21,7 +21,7 @@ USER
 
 **Database: MongoDB**
 
-**Cloud: NA**
+**Cloud: AZURE**
 
 **API Details or User Interface: NA**
 
